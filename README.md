@@ -5,7 +5,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nazia-yaqoob/)
   [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:nazzia.ch@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://your-portfolio-url.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://www.naziayaqoob.com)
 </div>
 
 ## 👋 Hello, World!
